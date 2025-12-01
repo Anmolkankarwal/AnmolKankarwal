@@ -1,40 +1,61 @@
-<h1 align="center">Hi 👋, I'm Anmol Kankarwal</h1>
-<h3 align="center">Coding with purpose, building with passion</h3>
+# Hello 👋, I'm Anmol kankarwal
+### AI & Java Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolkankarwal&label=Profile%20views&color=0e75b6&style=flat" alt="anmolkankarwal" /> </p>
+AI & Java Developer passionate about building clean, efficient, and impactful solutions. I love creating real-world projects, exploring AI, and constantly improving my development skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolkankarwal" alt="anmolkankarwal" /></a> </p>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/anmol-kankarwal-29ab32327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Skills
 
-- 🔭 I’m currently working on [LawBuddy](https://github.com/Anmolkankarwal/LawBuddy)
-
-- 🌱 I’m currently learning **Java DSA · Full-Stack Development · AI/ML · LangChain · LLM Apps**
-
-- 👯 I’m looking to collaborate on [MedGen-AI](https://github.com/Anmolkankarwal/MedGen)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Anmolkankarwal](https://github.com/Anmolkankarwal)
-
-- 💬 Ask me about **Java, Python, Sql, AI Bots, NLP**
-
-- 📫 How to reach me **akankarwal69@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JKov4gqDk38fBrqPggYr-LgWZLV7kI4G/view?usp=drive_link](https://drive.google.com/file/d/1JKov4gqDk38fBrqPggYr-LgWZLV7kI4G/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I’m funny 😄**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anmol-kankarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-kankarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anmol__20.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anmol__20.01/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anmol_kankarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anmol_kankarwal/" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolkankarwal&show_icons=true&locale=en&layout=compact" alt="anmolkankarwal" /></p>
+### LawBuddy
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolkankarwal&show_icons=true&locale=en" alt="anmolkankarwal" /></p>
+⚖️ LawBuddy — An AI-powered legal chatbot that helps users quickly understand Indian laws using simple, natural language.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolkankarwal&" alt="anmolkankarwal" /></p>
+[View Project](https://github.com/Anmolkankarwal/LawBuddy)
+
+---
+
+### MedGen-AI
+
+🩺🤖 MedGen AI — An AI-powered medical assistant that provides quick, reliable health information in simple language.
+
+[View Project](https://github.com/Anmolkankarwal/MedGen)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anmolkankarwal&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolkankarwal&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolkankarwal&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/Anmolkankarwal/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anmolkankarwal" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolkankarwal&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
