@@ -1,61 +1,113 @@
-# Hello 👋, I'm Anmol kankarwal
-### AI & Java Developer
-
-AI & Java Developer passionate about building clean, efficient, and impactful solutions. I love creating real-world projects, exploring AI, and constantly improving my development skills.
-
-## Contact Me
-<p><a href="https://www.linkedin.com/in/anmol-kankarwal-29ab32327" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200"/>
 </p>
 
-## Projects
+<h1 align="center">Hello 👋, I'm Anmol Kankarwal</h1>
+<h3 align="center">AI & Java Developer</h3>
 
-### LawBuddy
-
-⚖️ LawBuddy — An AI-powered legal chatbot that helps users quickly understand Indian laws using simple, natural language.
-
-[View Project](https://github.com/Anmolkankarwal/LawBuddy)
-
----
-
-### MedGen-AI
-
-🩺🤖 MedGen AI — An AI-powered medical assistant that provides quick, reliable health information in simple language.
-
-[View Project](https://github.com/Anmolkankarwal/MedGen)
+<p align="center">
+AI & Java Developer passionate about building clean, efficient, and impactful solutions.  
+I love creating real-world projects, exploring AI, and improving my development skills every day.
+</p>
 
 ---
 
-## GitHub Stats
+## 🔗 Contact Me
+- **LinkedIn**: https://www.linkedin.com/in/anmol-kankarwal-29ab32327  
+- **Email**: akankarwal69@gmail.com  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anmolkankarwal&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolkankarwal&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+# 🛠️ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,tensorflow,pytorch,numpy,matplotlib,pandas" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolkankarwal&theme=null" alt="GitHub Streak" />
+---
 
-<img src="https://profile-counter.glitch.me/Anmolkankarwal/count.svg?" alt="visitors count" />
+# 🚀 My Projects
 
-## GitHub Trophies
+### ⚖️ **LawBuddy**
+AI-powered chatbot that explains Indian legal concepts using simple natural language.  
+🔗 **View Project:** https://github.com/AnmolKankarwal/LawBuddy
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anmolkankarwal" alt="trophy" />
+---
 
-## GitHub Activity Graph
+### 🩺🤖 **MedGen AI**
+Medical assistant chatbot providing quick and reliable health information.  
+🔗 **View Project:** https://github.com/AnmolKankarwal/MedGen
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolkankarwal&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+---
 
+# 🎉 Cool Sticker
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+### 🟦 Main Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnmolKankarwal&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🟨 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolKankarwal&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnmolKankarwal&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnmolKankarwal&theme=radical&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 👁️ Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnmolKankarwal&color=blue&style=flat" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolKankarwal&theme=tokyo-night" />
+</p>
+
+---
+
+# 📌 Pinned Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKankarwal&repo=MedGen" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKankarwal&repo=LawBuddy" />
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/AnmolKankarwal/AnmolKankarwal/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎉 Thanks for Visiting My Profile!
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="160"/>
+</p>
