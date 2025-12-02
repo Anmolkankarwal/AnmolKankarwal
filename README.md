@@ -1,6 +1,6 @@
-<!-- Header GIF -->
+<!-- Header GIF (BIG SIZE) -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350"/>
 </p>
 
 <h1 align="center">Hello 👋, I'm Anmol Kankarwal</h1>
@@ -37,13 +37,6 @@ AI-powered chatbot that explains Indian legal concepts using simple natural lang
 ### 🩺🤖 **MedGen AI**
 Medical assistant chatbot providing quick and reliable health information.  
 🔗 **View Project:** https://github.com/AnmolKankarwal/MedGen
-
----
-
-# 🎉 Cool Sticker
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180"/>
-</p>
 
 ---
 
@@ -92,7 +85,6 @@ Medical assistant chatbot providing quick and reliable health information.
 ---
 
 # 📌 Pinned Projects
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKankarwal&repo=MedGen" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKankarwal&repo=LawBuddy" />
@@ -103,11 +95,4 @@ Medical assistant chatbot providing quick and reliable health information.
 # 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://github.com/AnmolKankarwal/AnmolKankarwal/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🎉 Thanks for Visiting My Profile!
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="160"/>
 </p>
