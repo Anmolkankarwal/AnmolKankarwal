@@ -3,9 +3,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350"/>
 </p>
 
-<!-- Fixed Rainbow Banner (NO UNDEFINED) -->
+<!-- Rainbow Banner (SAFE, NO UNDEFINED) -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Visit%20My%20Profile&width=900&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Welcome%20To%20My%20Creative%20Space&width=900&height=120" />
 </p>
 
 <h1 align="center">🚀 Hi, I'm <b>Anmol Kankarwal</b></h1>
