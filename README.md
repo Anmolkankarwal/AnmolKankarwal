@@ -3,20 +3,20 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350"/>
 </p>
 
-<!-- Gradient Banner -->
+<!-- Yellow Transition Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Welcome%20to%20Anmol%27s%20Profile!&width=900&height=120" />
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text=Welcome%20To%20Anmol%27s%20Profile&textColor=000000&bgColor=ffe600" width="900"/>
 </p>
 
 <h1 align="center">🚀 Hi, I'm <b>Anmol Kankarwal</b></h1>
-<h3 align="center">AI & Java Developer | Building Real-World AI Applications</h3>
+<h3 align="center">AI & Java Developer | Creative Problem Solver</h3>
 
 ---
 
 # 🌈 About Me
 <p align="center">
-I love building AI systems, solving real-world problems, and creating beautiful digital experiences.<br/>
-This profile is a playground of my creativity and technology! 😄
+I love building AI systems, solving real-world problems, and creating beautiful digital experiences.  
+This profile reflects my creativity + coding passion. 🌟
 </p>
 
 ---
@@ -36,25 +36,26 @@ This profile is a playground of my creativity and technology! 😄
 
 # 🎨 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,tensorflow,pytorch,numpy,matplotlib,pandas&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,tensorflow,pytorch,numpy,matplotlib,pandas" />
 </p>
 
 ---
 
-# 🔥 Featured Projects  
+# 🚀 Featured Projects
+
 ## ⚖️ LawBuddy  
-AI legal assistant that simplifies Indian laws for common people.  
-🔗 https://github.com/AnmolKankarwal/LawBuddy
+AI legal assistant simplifying Indian law.  
+🔗 **Project:** https://github.com/AnmolKankarwal/LawBuddy
 
 ---
 
 ## 🩺🤖 MedGen AI  
-AI medical assistant that provides fast and accurate health responses.  
-🔗 https://github.com/AnmolKankarwal/MedGen
+AI medical assistant for quick & accurate healthcare info.  
+🔗 **Project:** https://github.com/AnmolKankarwal/MedGen
 
 ---
 
-# 🌟 Colorful GitHub Stats
+# 🌈 Colorful GitHub Stats
 
 ## 💙 Main Stats  
 <p align="center">
@@ -63,7 +64,7 @@ AI medical assistant that provides fast and accurate health responses.
 
 ---
 
-## 💚 Most Used Languages  
+## 💛 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolKankarwal&layout=compact&theme=gruvbox" />
 </p>
@@ -115,5 +116,5 @@ AI medical assistant that provides fast and accurate health responses.
 
 # 🎉 Thanks for Visiting!
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Have%20a%20Colorful%20Day!&width=800&height=120" />
+  <img src="https://img.shields.io/badge/Have%20a%20Colorful%20Day!-ffe600?style=for-the-badge" />
 </p>
