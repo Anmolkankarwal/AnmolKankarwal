@@ -139,11 +139,11 @@ This profile is a playground of my creativity and technology! 😄
 # 📌 Pinned Projects  
 <p align="center">
   <a href="https://github.com/Anmolkankarwal/MedGen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmolkankarwal&repo=MedGen&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmolkankarwal&repo=MedGen&theme=tokyonight&cache_seconds=0" />
   </a>
   &nbsp;
   <a href="https://github.com/Anmolkankarwal/LawBuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmolkankarwal&repo=LawBuddy&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmolkankarwal&repo=LawBuddy&theme=tokyonight&cache_seconds=0" />
   </a>
 </p>
 
