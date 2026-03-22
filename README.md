@@ -163,18 +163,16 @@ This profile is a playground of my creativity and technology! 😄
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1JKov4gqDk38fBrqPggYr-LgWZLV7kI4G/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1X--s5cyCMUmFjTuTewSoKM1E5UXAdk22/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Click%20to%20View%20Resume-FFD700?style=for-the-badge&logo=google-drive&logoColor=000000" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1JKov4gqDk38fBrqPggYr-LgWZLV7kI4G">
+  <a href="https://drive.google.com/uc?export=download&id=1X--s5cyCMUmFjTuTewSoKM1E5UXAdk22">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
-
----
 
 # 🎉 Thanks for Visiting!
 
