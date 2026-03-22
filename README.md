@@ -126,34 +126,9 @@ AI medical assistant that provides fast and accurate health responses.
 ---
 
 # 🐍 Contribution Snake
-
-> ⚠️ **To enable the snake animation**, create `.github/workflows/snake.yml` in your repo with:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: AnmolKankarwal
->           outputs: dist/github-contribution-grid-snake.svg
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Once the Action runs successfully, uncomment the image below:
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/AnmolKankarwal/AnmolKankarwal/output/github-contribution-grid-snake.svg" />
-</p> -->
+</p>
 
 ---
 
