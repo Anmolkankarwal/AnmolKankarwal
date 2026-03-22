@@ -3,9 +3,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350"/>
 </p>
 
-<!-- Top Banner (Fixed - was showing undefined) -->
+<!-- Rainbow Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20To%20My%20Creative%20Space&fontSize=36&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text=Welcome%20To%20My%20Creative%20Space&width=900&height=120" />
 </p>
 
 <h1 align="center">🚀 Hi, I'm <b>Anmol Kankarwal</b></h1>
@@ -29,10 +29,6 @@ This profile is a playground of my creativity and technology! 😄
   &nbsp;&nbsp;
   <a href="mailto:akankarwal69@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d93025?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ANMOL_KANKARWAL/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -102,21 +98,6 @@ AI medical assistant that provides fast and accurate health responses.
 
 ---
 
-# 🧩 LeetCode Stats
-
-## 📊 LeetCode Card
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ANMOL_KANKARWAL?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/ANMOL_KANKARWAL/">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
----
-
 # 📌 Pinned Projects  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolKankarwal&repo=MedGen&theme=tokyonight" />
@@ -125,9 +106,9 @@ AI medical assistant that provides fast and accurate health responses.
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolKankarwal/AnmolKankarwal/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/AnmolKankarwal/AnmolKankarwal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -135,26 +116,27 @@ AI medical assistant that provides fast and accurate health responses.
 # 📄 My Resume
 
 <p align="center">
+  <!-- Resume GIF -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHg1MDAzcGI5ZzF6ajl0YWphNTkxdW9mNzI5cTJxamxpMjlhMTVycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjnevZHF4kPi96vo3X/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
+  <!-- View Resume Button -->
   <a href="https://drive.google.com/file/d/1JKov4gqDk38fBrqPggYr-LgWZLV7kI4G/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Click%20to%20View%20Resume-FFD700?style=for-the-badge&logo=google-drive&logoColor=000000" />
   </a>
 </p>
 
 <p align="center">
+  <!-- Direct Download Button -->
   <a href="https://drive.google.com/uc?export=download&id=1JKov4gqDk38fBrqPggYr-LgWZLV7kI4G">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=for-the-badge&logo=download&logoColor=white" />
   </a>
 </p>
 
 ---
 
 # 🎉 Thanks for Visiting!
-
-<!-- Bottom Banner (Fixed - was showing undefined) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Have%20a%20Colorful%20Day!&fontSize=36&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Have%20a%20Colorful%20Day!&width=800&height=120" />
 </p>
